@@ -16,12 +16,6 @@ I came from a Mechanical Engineering background, then to low code with MS Power 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChristopherViva&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherViva&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 ## 🔗 Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/chrissilverence/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
