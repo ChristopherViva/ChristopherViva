@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I came from a Mechanical Engineering background, then to low code with MS Power Platform, and now I have fully transformed into a full stack developer.
 
-- 🔭 I’m currently working on integrating computer vision into web development projects. 
+- 🔭 I’m currently working on integrating computer vision with web development.
 
 ## 🛠️ Languages and Tools
 <p align="left"> 
